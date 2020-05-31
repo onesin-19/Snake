@@ -1,0 +1,6 @@
+﻿  RockUtiles.cpp
+c:\users\okotcham\source\repos\d02-programmation structuree\snake\snake\rockutiles.cpp(102): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  serpent.cpp
+c:\users\okotcham\source\repos\d02-programmation structuree\snake\snake\serpent.cpp(88): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Snake.vcxproj -> C:\Users\okotcham\source\repos\D02-programmation Structuree\Debug\Snake.exe
